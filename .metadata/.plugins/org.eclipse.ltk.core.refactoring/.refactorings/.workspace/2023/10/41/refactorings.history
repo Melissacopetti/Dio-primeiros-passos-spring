@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;primeiros-passos&apos; to &apos;spring-scopes-singleton-prototype&apos;&#x0D;&#x0A;- Original element: &apos;primeiros-passos&apos;&#x0D;&#x0A;- Renamed element: &apos;primeiros-passos&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;primeiros-passos&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=primeiros-passos" name="spring-scopes-singleton-prototype" references="true" stamp="1697235257348" version="1.0"/>
+</session>

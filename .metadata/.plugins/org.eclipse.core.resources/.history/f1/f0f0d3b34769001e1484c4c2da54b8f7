@@ -1,0 +1,17 @@
+package dio.sprigboot;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DioPrimeirosPassosSpringApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(DioPrimeirosPassosSpringApplication.class, args);
+		
+		Calculadora calculadora = new Calculadora();
+		
+		System.out.println("O resultado é "+ calculadora.somar(2, 7));
+	}
+
+}

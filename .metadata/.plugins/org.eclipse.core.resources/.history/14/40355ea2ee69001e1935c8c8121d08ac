@@ -1,0 +1,12 @@
+package dio.sprigboot.app;
+
+import com.google.gson.Gson;
+public class ConversorJson {
+	private Gson gson = new Gson();
+	
+	public ViaCepResponse converter(String json) {
+		ViaCepResponse response = gson.from
+	}
+	
+
+}
